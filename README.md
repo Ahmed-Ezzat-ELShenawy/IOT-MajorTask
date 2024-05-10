@@ -6,3 +6,14 @@ Three different well developed forecasting models are constracted (BRNN, SVR, Fu
 
 Referenced From:
 https://paperswithcode.com/paper/comparison-of-forecasting-methods-of-house
+
+
+Google Collab Compilations:
+
+This is the Applied Code from Reference paper using the Original Method (Change Finder)
+
+https://colab.research.google.com/drive/1MGrH2JHL-oDvNu29Pi_QhiG1UF1OeeBm?usp=sharing 
+
+While this is the Applied Code modified using the same dataset but with different method (Cummulative Sum)
+
+https://colab.research.google.com/drive/1P8JKIaUKgvMpJTUQ0ampVcqzagLvP9Mj?usp=sharing
